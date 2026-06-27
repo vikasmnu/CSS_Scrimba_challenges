@@ -20,7 +20,7 @@ h3 {
     font-size: 36px;
     font-weight: 900;
 }
-.small {
+.small-text {
     font-size: 16px;
 }
 
@@ -42,4 +42,7 @@ a {
 }
 a:hover{
     color:#131313;
+}
+span {
+    display:block;
 }
