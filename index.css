@@ -24,7 +24,22 @@ h3 {
     font-size: 16px;
 }
 
+.nameDark {
+    font-size: 80px;
+    font-weight: 800;
+}
+.graphicsDark,.articleDark {
+    font-size: 60px;
+    font-weight: 800;
+}
+
 .container {
     width: 570px;
     margin: 0 auto;
+}
+a {
+    color: #99D930;
+}
+a:hover{
+    color:#131313;
 }
